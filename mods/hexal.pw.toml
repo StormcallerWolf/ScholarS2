@@ -1,9 +1,0 @@
-filename = 'hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar'
-name = 'Hexal'
-side = 'both'
-
-[download]
-hash = '1dea873c98ebb2963bb1c3a1f01a6c5bc2678c9aaacc644bcc5d658cd88b93c07831f58300fb97ec41ba84b0002862f2fde99de833c689469db351cfa35174f7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://endlessstormwolf.org/public/scholars2/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar'

@@ -1,9 +1,0 @@
-filename = 'hextrogen-1.0.0.jar'
-name = 'Hextrogen'
-side = 'both'
-
-[download]
-hash = '155ce33f8f70a1c696aa2d20f3aca794bb489ca5d767d9bdbd19a1c7c9240cab354ab8923529d5599b64200a50c2c896db35d6c0529c2903fdff2a9e41259ffe'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://endlessstormwolf.org/public/scholars2/hextrogen-1.0.0.jar'

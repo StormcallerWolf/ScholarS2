@@ -1,9 +1,0 @@
-filename = 'overevaluate-1.0.0.jar'
-name = 'Overevaluate'
-side = 'both'
-
-[download]
-hash = 'e50bc78aeb69eef2afcea31bef1337cb1a135f0455eeb92328993eecf3bcec8cb71fa9216d58594c11322844dc60f39bf2065f163e9cfe9d792a464f00a4296b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://endlessstormwolf.org/public/scholars2/overevaluate-1.0.0.jar'

@@ -1,9 +1,0 @@
-filename = 'Plethora-Fabric-1.11.7-skyevg-unofficial.jar'
-name = 'Plethora'
-side = 'both'
-
-[download]
-hash = 'f16c8fc3c119997a13681137f5aaa1771bab830f4f159dcb412fe728fe917b53427a41eaef6d419abb841f367f5fbd60e7598a3718e7bd625364ac69a09f3c53'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://endlessstormwolf.org/public/scholars2/Plethora-Fabric-1.11.7-skyevg-unofficial.jar'
