@@ -6,6 +6,10 @@ hash = "2b0a8c9198d7816671faa596f3614585ead59ce1f1123a828c4a3fc226d58a10"
 metafile = true
 
 [[files]]
+file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
+hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "0a60e26e871cca4430ac8dd7bac8b8d87f93e2ab1dc80bc5fde9da86b3bb5a8f"
 metafile = true
@@ -346,9 +350,8 @@ hash = "027238a92d45f95caeb90591ba761e6536a49a850f82ae57ae9042e0130ecaab"
 metafile = true
 
 [[files]]
-file = "mods/ephemera.pw.toml"
-hash = "e64d248bedf334ec08a8daadb535a7888a382ae9fd2eb16cfb34134ce9e0d891"
-metafile = true
+file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
+hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
 
 [[files]]
 file = "mods/estrogen.pw.toml"
@@ -446,9 +449,8 @@ hash = "a500c8e667dc08215c5b3f8d0af966e2aea860bcac14b9de1beb5b27b8ef1b67"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-hash = "882e4eace4b3d60368d3af712b9e8f56a990d04b61ac72143ebbdeafeea2428c"
-metafile = true
+file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
+hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
 
 [[files]]
 file = "mods/hexcassettes.pw.toml"
@@ -471,9 +473,8 @@ hash = "61c007eb795bc70f1012814b3c76675e88093305973d9c775f07fe8ae3dcda73"
 metafile = true
 
 [[files]]
-file = "mods/hexical.pw.toml"
-hash = "7905cb4f0dd3ab2f39a9eae1716f442fedb5f9f2065495e3dbc3cb64e9482769"
-metafile = true
+file = "mods/hexical-2.0.0.jar"
+hash = "3ad41c861d865defcc09330bbb13f3af7e7ef366c89250e2e1caec15c968d919"
 
 [[files]]
 file = "mods/hexpats.pw.toml"
@@ -491,9 +492,8 @@ hash = "03ae8cdeb3f643aae65c72d851031a0eb0a63ffa0430bb9edd17668419be6ee3"
 metafile = true
 
 [[files]]
-file = "mods/hextrogen.pw.toml"
-hash = "0096354ddbbe872b344477db80e68e4ce3d0edd637c26a8f6513c23290fcd7ad"
-metafile = true
+file = "mods/hextrogen-1.0.0.jar"
+hash = "2913cccfc433aeb080bf8467905fc5da0aba15fd132be225065749a56846734c"
 
 [[files]]
 file = "mods/hextweaks.pw.toml"
@@ -716,9 +716,8 @@ hash = "045b2016058f6f2892122fd764336120348f5fe70bc27d49bfacbdc5e620d017"
 metafile = true
 
 [[files]]
-file = "mods/moreiotas.pw.toml"
-hash = "f2b1bbe37f0ace5f28327bbda01d09a43cdbf8d92a98a1f2cf8de2c791ed3fa3"
-metafile = true
+file = "mods/moreiotas-fabric-1.20.1-0.1.0-5.jar"
+hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
 
 [[files]]
 file = "mods/naturalist.pw.toml"
@@ -736,9 +735,8 @@ hash = "0af4447cae5d3acbc946a5855bd553f6bd8c3f2c21363373759003aef1455452"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut.pw.toml"
-hash = "77b91c3215f9b6dc8eea80ef7a36a730e907b4735788b20209a5162925cc13c5"
-metafile = true
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "5a15d49a6f8ee1b5c5eaee9c36b3774db38911ca0081ba7b76599074e1cb1ef2"
 
 [[files]]
 file = "mods/origins.pw.toml"
@@ -746,9 +744,8 @@ hash = "5a6925865c33b9512c7683c15adbd7626a53ee234f7f5c43d09e41484972149d"
 metafile = true
 
 [[files]]
-file = "mods/overevaluate.pw.toml"
-hash = "0155c0af5c204558579de3ce229a2c295028c274c3634d46357f8bd0a57e1a74"
-metafile = true
+file = "mods/overevaluate-1.0.0.jar"
+hash = "bf53453ba4a60c969294a52b8e7886a2a8f9aed0a5ad5f8c30680eedbf82db8a"
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
@@ -773,11 +770,6 @@ metafile = true
 [[files]]
 file = "mods/phlexiful.pw.toml"
 hash = "9f4d99d762355d5d5f4cad767b0a23b51d6275937e18e2ddcfaf4c414cace4b4"
-metafile = true
-
-[[files]]
-file = "mods/plethora.pw.toml"
-hash = "f71e1a8d5cc2eb145e8b715497eee5242e2af4da5a6751a85a3aff9eacad5209"
 metafile = true
 
 [[files]]
@@ -936,9 +928,8 @@ hash = "50d286b8c5e586afcd555f743e68d64ed96123b814683c03833b9a145469ca04"
 metafile = true
 
 [[files]]
-file = "mods/trinkhide.pw.toml"
-hash = "5a52d1283931a34ba6dee28ef68744f1555adb7a151ff61279211ca848d381ec"
-metafile = true
+file = "mods/trinkhide-1.0.0+2a45046.jar"
+hash = "c576c51096b9a8ef40966be810aaf1c067bf6a00493e8ae5d24626b9ca43e235"
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
