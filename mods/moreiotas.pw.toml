@@ -1,0 +1,9 @@
+filename = 'moreiotas-fabric-1.20.1-0.1.0-5.jar'
+name = 'MoreIotas'
+side = 'both'
+
+[download]
+hash = '7047ae982d6db1245143cb5096a398d3bf0d22edf7b5ec539ac8c4c1e222a97bd518f839d2893d192abfbf8e031569698a2adebe608478d5d58e54c0d75daef8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://endlessstormwolf.org/public/scholars2/moreiotas-fabric-1.20.1-0.1.0-5.jar'

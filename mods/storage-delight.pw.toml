@@ -1,0 +1,16 @@
+filename = 'storagedelight-25.03.09-1.20-fabric.jar'
+name = 'Storage Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e11af428940fcba6138155c7688b73d3965da275c3c15b226811f17d7e345d5c027a7fa8ea270291cc126829039a51428e0b28936a7b68216691da3ad8506482'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LTTvOp5L/versions/RMxAEh4O/storagedelight-25.03.09-1.20-fabric.jar'
+
+[update.modrinth]
+mod-id = 'LTTvOp5L'
+version = 'RMxAEh4O'

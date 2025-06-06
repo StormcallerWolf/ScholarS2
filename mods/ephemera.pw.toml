@@ -1,0 +1,9 @@
+filename = 'ephemera-fabric-1.20.1-0.3.0.jar'
+name = 'Ephemera'
+side = 'both'
+
+[download]
+hash = '3d44c739e24405067f90b69d80abc662f8955354da24443358c2b2824215cd4fdf83e6a28b9c1495c3ae6cc08c10fe833b55d356bd5869be0749cb6871cd94fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://endlessstormwolf.org/public/scholars2/ephemera-fabric-1.20.1-0.3.0.jar'

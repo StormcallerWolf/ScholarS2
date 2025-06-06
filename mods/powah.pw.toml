@@ -1,0 +1,16 @@
+filename = 'Powah-5.0.10.jar'
+name = 'Powah!'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '844d3a5c7502a150046531f9b2bb4327bbb02f8479db00542fc5933f5ae5450ecd45bc8779cac39c430233db6e47d7534cca373c8ea6c9d3349b01922694cbc6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KZO4S4DO/versions/EWDexyqc/Powah-5.0.10.jar'
+
+[update.modrinth]
+mod-id = 'KZO4S4DO'
+version = 'EWDexyqc'

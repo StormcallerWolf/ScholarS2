@@ -1,0 +1,16 @@
+filename = 'chunk-debug-1.20.1-1.0.8.jar'
+name = 'ChunkDebug'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5179ffd0bf2574dd6fe98315f8deaf03805fff95873961d26589e4e895d091a0049919fe5ba8bb72afa05d20e982e483a95a4208392f302522b5fea33c3954c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zQxjhDPq/versions/M5Z6hDQa/chunk-debug-1.20.1-1.0.8.jar'
+
+[update.modrinth]
+mod-id = 'zQxjhDPq'
+version = 'M5Z6hDQa'

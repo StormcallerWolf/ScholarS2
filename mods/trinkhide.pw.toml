@@ -1,0 +1,9 @@
+filename = 'trinkhide-1.0.0+2a45046.jar'
+name = 'TrinkHide'
+side = 'both'
+
+[download]
+hash = '8ac1a29f56e524a0f964932c59691c2fa37600787d9f9696ae6206795252bf604d0d5a8220240f69c1fb220b9772dfedfb50e350bef8ee5eb8135ba1327d3879'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://endlessstormwolf.org/public/scholars2/trinkhide-1.0.0+2a45046.jar'

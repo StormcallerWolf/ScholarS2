@@ -1,0 +1,16 @@
+filename = 'hexdebug-fabric-0.3.0+1.20.1.jar'
+name = 'HexDebug'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '5e4b66712543f1eaf9b5e9471771efb95866b51ac6b452e24df33a5136bfabad354c1d5416b9a6353a6d20cd1bf1655bb6104dc823a9753cb9b7ff13da970731'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/A2pscGC5/versions/gvNYxq9j/hexdebug-fabric-0.3.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'A2pscGC5'
+version = 'gvNYxq9j'

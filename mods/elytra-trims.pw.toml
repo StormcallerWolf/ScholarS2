@@ -1,0 +1,16 @@
+filename = 'elytratrims-fabric-3.5.6+1.20.1.jar'
+name = 'Elytra Trims'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dd4c9f533b7eafba31b18a45233de590734a66662537abe370b979c040a9ab1145bc42a66180912a8a3b51c0dce2e983f321b51f21b554402022880c8cce44b0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XpzGz7KD/versions/8IZHBtM5/elytratrims-fabric-3.5.6%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'XpzGz7KD'
+version = '8IZHBtM5'

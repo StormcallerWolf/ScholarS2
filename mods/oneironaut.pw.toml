@@ -1,0 +1,9 @@
+filename = 'oneironaut-fabric-1.20.1-0.5.0.jar'
+name = 'Oneironaut'
+side = 'both'
+
+[download]
+hash = 'faaec5412cae1a6799698755773d2e6eeb5c3e0e686e2d6ab367831b8c5563446061afcf6c6bd980ab4b984b981f37df8d68e80f3c018b950ed8b08aa7db4857'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://endlessstormwolf.org/public/scholars2/oneironaut-fabric-1.20.1-0.5.0.jar'

@@ -1,0 +1,16 @@
+filename = 'Maced-Fabric-1.20.1-1.0.0.jar'
+name = 'Mace Combat Backport'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5ab81c7ee1f7fa36a9552acb6e92e876301fc677a3325444ba347bc5500467657e9b349609a6ec2b7cc627095529fdd0c7d90475f8195e86b6ec840a3f13c57c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pmgbD6IS/versions/5Gd7KGrE/Maced-Fabric-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'pmgbD6IS'
+version = '5Gd7KGrE'

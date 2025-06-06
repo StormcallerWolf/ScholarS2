@@ -1,0 +1,16 @@
+filename = 'pride-moths-1.8.5+1.20.1.jar'
+name = 'Happy Pride Moth!'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b014aced15affefef9a7becfde66e07006df5afde0c2e686d849cab53d311ffdb814d55a8caa103a5a191561046f6d62f9c70b522d5a1c76532eb6cbd0cb7f1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z4CDikCJ/versions/bydrUEVW/pride-moths-1.8.5%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'z4CDikCJ'
+version = 'bydrUEVW'

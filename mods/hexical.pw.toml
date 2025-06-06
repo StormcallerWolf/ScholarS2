@@ -1,0 +1,9 @@
+filename = 'hexical-2.0.0.jar'
+name = 'Hexical'
+side = 'both'
+
+[download]
+hash = '2b3fc1892ce557fcd64fb0438a4d857d533fc840c8923b13cf036bc515d15b6ebbc431bc73615b896a0bb6445bbea30c77cdf2ef3520523960b586377ccf97dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://endlessstormwolf.org/public/scholars2/hexical-2.0.0.jar'
