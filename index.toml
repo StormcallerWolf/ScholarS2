@@ -220,11 +220,6 @@ hash = "16b4b5ef6737f6cc0fb90933600935e0aa10573b7c84c9e9ff0fef9b83914902"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "31914de8db98006f46a11f5c6ed3727d81cb8109a0c8c08c78039655b245dc1b"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "cb5b55935e85b9b225d21c18646ba3c1340e7e3b204e9ba3e5ac5395a53f4751"
 metafile = true
@@ -359,11 +354,6 @@ hash = "47c0e53d1681407b078adeb955e6215ade31b31552a5c5555fc95d0e0769d21e"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "b2b9d89f207f3d6b2bb690aa2f5e888415d2d0b7941a74d2d866a8d9dbe21b5d"
-metafile = true
-
-[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "02ee56587b596ebd1479ad42b5abe517a082bffe9ad12e5ab2403e821fc13c5f"
 metafile = true
@@ -482,11 +472,6 @@ hash = "48c4b6d87106c58880acd0db982a825d0d40d0400c9444d10b11023db753f19d"
 metafile = true
 
 [[files]]
-file = "mods/hexsky.pw.toml"
-hash = "213c87392ab5a32dd6fec747ed87859b95c5391ecc08cba86ae80c6aff693ca5"
-metafile = true
-
-[[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "03ae8cdeb3f643aae65c72d851031a0eb0a63ffa0430bb9edd17668419be6ee3"
 metafile = true
@@ -523,11 +508,6 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "d6e88f21361208674559d8ae55defebb6644cdda60d6705cccb1c0bd9f0cbd5f"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "35c59bae5118c644c1e7aa00d37a2ca3d3a0e2c175e6462c781dd1ba788f5350"
 metafile = true
 
 [[files]]
@@ -930,11 +910,6 @@ metafile = true
 [[files]]
 file = "mods/trinkhide-1.0.0+2a45046.jar"
 hash = "c576c51096b9a8ef40966be810aaf1c067bf6a00493e8ae5d24626b9ca43e235"
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "058dbcd414e35c8fe1282822ffde2a8982f98ac790449ea09fd4146206da8d5d"
-metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
