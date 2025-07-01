@@ -724,6 +724,10 @@ file = "mods/moreiotas-fabric-1.20.1-0.1.0-5.jar"
 hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
 
 [[files]]
+file = "mods/movesthemind-1.0.2.jar"
+hash = "4b4d3eb6c75f125e92b6b760771f336fc118f72454a9fdb42cae2cfa1b9454d3"
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "5c7c242d60b7f60037f42d7508f07bb09c0adddb39679f02a97cc9db916ebb1e"
 metafile = true
