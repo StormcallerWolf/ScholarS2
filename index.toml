@@ -449,11 +449,6 @@ hash = "45abf9f85956ba42f64c74bf17a2a6aacf6dd2623b746fc34672b8471cf726b0"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "e1b22e7d6c90f1046e1543330d8cd0db3aeb72a54b24732fefd2229af38bc67a"
-metafile = true
-
-[[files]]
 file = "mods/hex-machina.pw.toml"
 hash = "a500c8e667dc08215c5b3f8d0af966e2aea860bcac14b9de1beb5b27b8ef1b67"
 metafile = true
@@ -466,6 +461,10 @@ hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
 file = "mods/hexcassettes.pw.toml"
 hash = "5ea0c2d3a70b846661158ea9d88214c33aaa6e1eb1e1ebe090636fe437b4749b"
 metafile = true
+
+[[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
+hash = "dceae4cced759186418226e4633a35fd1005664450734d9a62117aa49c393dd9"
 
 [[files]]
 file = "mods/hexcellular.pw.toml"
