@@ -1,0 +1,16 @@
+filename = 'hierophantics-1.0.2.jar'
+name = 'Hierophantics'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '91040f8cf5340c90db67c08afd164d1d687bdc168c00308f283402398eaa11d34e4c5e10804a649d92aba4f00e2fba06b2db5b0ca14719f7dae13d269377b59a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ybwf7iLN/versions/i0aualpD/hierophantics-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'ybwf7iLN'
+version = 'i0aualpD'
