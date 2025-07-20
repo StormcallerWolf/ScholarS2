@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/kilt.pw.toml"
-hash = "5f0054891438d589ba6260f075bc18a760e47d279953b23e444b538abd2a9652"
+hash = "04c8f765207c0dbaf6ca42fbcfbbef03272ef2ddd6a42671baf44e7a1ea69977"
 metafile = true
 
 [[files]]

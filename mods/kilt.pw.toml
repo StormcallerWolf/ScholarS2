@@ -1,4 +1,4 @@
-filename = 'Kilt-20.1.1.jar'
+filename = 'Kilt-20.1.2.jar'
 name = 'Kilt'
 side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'alpha'
 
 [download]
-hash = 'b7724629bade7258eb30860ac331e51d0ab270c3e8b1107a188de3b32ee4f799680883643c65e8c4ee90de92f8bda5bd28052dcdfd3181865d7548be80641e8a'
+hash = 'f9990deda8b303f38911674f84942d216563bad6e9dd321efd1dc28ddc82a06aacbd6459186b8210decb24b8ec5a781d4eabf5cbc298c94f2930336de63424a6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/t87XZEqv/versions/OacGiohQ/Kilt-20.1.1.jar'
+url = 'https://cdn.modrinth.com/data/t87XZEqv/versions/jTHxuZMV/Kilt-20.1.2.jar'
 
 [update.modrinth]
 mod-id = 't87XZEqv'
-version = 'OacGiohQ'
+version = 'jTHxuZMV'
