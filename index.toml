@@ -18,10 +18,6 @@ file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
 hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
 
 [[files]]
-file = "mods/Slate_Work-0.2.1.jar"
-hash = "515aec9264cab261cd12816e68e91c8914cf8c7a3529c302807d1f609c3d2c14"
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "0a60e26e871cca4430ac8dd7bac8b8d87f93e2ab1dc80bc5fde9da86b3bb5a8f"
 metafile = true
@@ -499,8 +495,9 @@ file = "mods/hexportation-fabric-1.20.1-0.0.2.jar"
 hash = "36bcd2b0a39b411211f7270544be3f8bcca11a90740b038c18ebc5c5d5ed7a2e"
 
 [[files]]
-file = "mods/hexpose-1.0.0.jar"
-hash = "fde9140a48db594bdfa006d9da3e9f9b41f06eff270c566bd3c932b9c4f72aac"
+file = "mods/hexpose.pw.toml"
+hash = "57faaed432fcb19b681030dbc3526ed0394f2d3692b9e9715fd76f1f4d4c5822"
+metafile = true
 
 [[files]]
 file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
@@ -582,11 +579,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "efdbf1fc83ab612b693947fd404ea53eb79f8677fa4f44fb738ef3b03fe7ed43"
-metafile = true
-
-[[files]]
-file = "mods/kilt.pw.toml"
-hash = "04c8f765207c0dbaf6ca42fbcfbbef03272ef2ddd6a42671baf44e7a1ea69977"
 metafile = true
 
 [[files]]
@@ -706,26 +698,6 @@ metafile = true
 [[files]]
 file = "mods/mace-backport.pw.toml"
 hash = "7a6cd7602e9dccd7ffd6bd1af009091d3bb95d9b02c7890fcedd2b3fe439f1af"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-additions.pw.toml"
-hash = "8ed2a4542d2041b5ad5ba0b06a6e265b51a32de149a6a40d2a04037c7bd3ee79"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "0a5fddce18bb058813aeebebd05b664b534f7546b8871ceb1ffda442bdac2eee"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.pw.toml"
-hash = "43ea550a8b5123518d86295d1cc7a554c321c514ddc9c12208f9d8f3d58c30c1"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.pw.toml"
-hash = "8d7846deb0518c2f5c6c3804ec1755396910ccbb8ce9e5d550495c46cbff0559"
 metafile = true
 
 [[files]]
@@ -885,6 +857,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2675e5c8838dc8029d2739132af32c82fad98c02198baf59967f511a5cc950ce"
+metafile = true
+
+[[files]]
+file = "mods/slate-works.pw.toml"
+hash = "02f2f5843fc9d749fae55f36a983dadb2efb406fb8e3623462736ec470bc8f98"
 metafile = true
 
 [[files]]
