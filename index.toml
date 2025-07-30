@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7f4203931cfde1303d146e8636cb9668666f291825de1e20ea1583717b971234"
+hash = "1ca9db54a572cb7ce82a504c2d0657b8e32b86ceb121aaba8766404ed10d8528"
 metafile = true
 
 [[files]]
@@ -886,7 +886,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2a75e822c4730db9acd73e1602bb8d554cffb379d3d0a239f49ca326535e1686"
+hash = "99dc91162741d91f8e7b6b686cc77ec200f4449e7a702252c5b4bdfab0bc73a5"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "3d6c099cf62c0df13b800759c67bbf1f5e94af968a6d478915eeabb0f60d6442"
 metafile = true
 
 [[files]]
@@ -907,6 +912,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "26037174be34c67766a1db1a16b48b7d5d78783805fb1db1134ac42465cf9617"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "7a7472507f46c05e0400307a31b989bde911e6f7df2472e1303c793224e1e374"
 metafile = true
 
 [[files]]
