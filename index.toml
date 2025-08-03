@@ -10,10 +10,6 @@ hash = "2b0a8c9198d7816671faa596f3614585ead59ce1f1123a828c4a3fc226d58a10"
 metafile = true
 
 [[files]]
-file = "mods/HexStruction-fabric-1.1.0.jar"
-hash = "6b8c084227df04b94c6b6a47034c5d9e477b37dd866ba44cddf31fe9f38acb03"
-
-[[files]]
 file = "mods/Plethora-Fabric-1.11.7-skyevg-unofficial.jar"
 hash = "a0ba090fead330b6d15cda854d29d3e4b5c19adaab1f280a9c17635657ed31cf"
 
@@ -487,10 +483,6 @@ file = "mods/hexpats-0.1.1-1.20.1.jar"
 hash = "fdc58f3c5daf1de428d7a9e9563dd72940ba33612188bf41d81669df0944ae04"
 
 [[files]]
-file = "mods/hexportation-fabric-1.20.1-0.0.1.jar"
-hash = "59efe1519a724a0b3720a3b2a747ddc3c9ffecac0d66d2f322caa831ab7692c2"
-
-[[files]]
 file = "mods/hexportation-fabric-1.20.1-0.0.2.jar"
 hash = "36bcd2b0a39b411211f7270544be3f8bcca11a90740b038c18ebc5c5d5ed7a2e"
 
@@ -504,6 +496,11 @@ file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
 hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
 
 [[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "b30b9777d40ca6f44eb937da717efb53439aa97c02abcd2e9e4f3707a5bebac2"
+metafile = true
+
+[[files]]
 file = "mods/hextrogen-1.0.0.jar"
 hash = "2913cccfc433aeb080bf8467905fc5da0aba15fd132be225065749a56846734c"
 
@@ -514,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "209d66c6b3973848c101525bd00a7425a9da34768ba597a4efbae4b041bed6f7"
+hash = "023b46e176ef7e9f2ebb5a0859edf1b33cd636dcaa4aecd0040d698353fae009"
 metafile = true
 
 [[files]]
@@ -856,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "02f2f5843fc9d749fae55f36a983dadb2efb406fb8e3623462736ec470bc8f98"
+hash = "4a78b310c23b1ccae3ed6d6dcfaee10101af6ac3e40a870bd26abe0996f74010"
 metafile = true
 
 [[files]]
